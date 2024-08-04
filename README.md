@@ -6,8 +6,8 @@
 
 > Blog Oluşturmak İçin Yazı Oluştururken Öne Çıkan Fotograf Koyabilirsiniz
 
-Özellikler :
-Blog Oluşturmak
-Blog Silmek
-Öne Çıkan Bloglar Eklemek
-Yorum Yapma Sistemi (Wordpress Hesabına Giriş Yapmak Zorunludur)
+<h1>Özellikler :</h1>
+<h1>Blog Oluşturmak</h1>
+<h1>Blog Silmek</h1>
+<h1>Öne Çıkan Bloglar Eklemek</h1>
+<h1>Yorum Yapma Sistemi (Wordpress Hesabına Giriş Yapmak Zorunludur)</h1>
