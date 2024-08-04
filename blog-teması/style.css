@@ -1,0 +1,60 @@
+/*
+Theme Name: İtappz BLOG
+*/
+
+body {
+    background: #494949;
+}
+
+header {
+background: #1b1a1a;
+height: 80px;
+display: flex;
+place-items: center;
+flex-direction: row;
+color: white;
+}
+
+.footer {
+    background: #1b1a1a;
+    padding: 1rem;
+    display: flex;
+    place-items: center;
+    color: white;
+    justify-content: center;
+    width: 100%;
+    }
+
+    .footer-container {
+    }
+
+    .navigation {
+        display: flex;
+    }
+    
+    .flexrow {
+        flex-direction: row;
+    }
+    
+    @media only screen and (max-width: 600px) {
+        .container {
+            grid-template-columns: repeat(1, minmax(0, 1fr));
+        }
+    }
+
+
+/* Gizleme ve görünüm ayarları */
+#scroll-left-featured,
+#scroll-right-featured,
+#scroll-left-blog,
+#scroll-right-blog {
+    display: none; /* Butonları gizler */
+}
+
+/* Görüntülenmesini istediğiniz durumda ayar */
+.scroll-buttons-visible #scroll-left-featured,
+.scroll-buttons-visible #scroll-right-featured,
+.scroll-buttons-visible #scroll-left-blog,
+.scroll-buttons-visible #scroll-right-blog {
+    display: block; /* Butonları gösterir */
+}
