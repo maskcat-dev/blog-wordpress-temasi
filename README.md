@@ -1,6 +1,6 @@
 <h1>Gerekenler</h1>
-> Wordpress Üzerinden Ana Sayfa Oluşturmak
-> Wordpress Üzerinden Blog Kategorisi Oluşturmak
+> Wordpress Üzerinden Ana Sayfa Oluşturmak\n
+\n > Wordpress Üzerinden Blog Kategorisi Oluşturmak\n
 > Wordpress Üzerinden onecıkanblog Kategorisi Oluşturmak
 
 > Blog Oluşturmak İçin Yazı Oluştururken Öne Çıkan Fotograf Koyabilirsiniz
